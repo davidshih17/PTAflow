@@ -1,5 +1,5 @@
 # PTAflow
-Neural posterior estimation for Pulsar Timing Arrays
+Neural Posterior Estimation for Pulsar Timing Arrays
 
 Code to reproduce the results in https://arxiv.org/abs/2310.12209
 
