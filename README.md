@@ -18,3 +18,6 @@ Train model for 100 epochs:
 python train_model.py
 
 Prints out val loss and saves each epoch. 
+
+Currently set up to train on 3 GPUs with DataParallel. Takes approximately 15 minutes / epoch on 3 Tesla P100 or 3 GeForce GTX 1080 Ti cards. 
+
