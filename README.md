@@ -1,6 +1,12 @@
 # PTAflow
 Neural posterior estimation for Pulsar Timing Arrays
 
+Code to reproduce the results in https://arxiv.org/abs/2310.12209
+
+D. Shih, M. Freytsis, S. R. Taylor, J. A. Dror and N. Smyth,
+"Fast Parameter Inference on Pulsar Timing Arrays with Normalizing Flows,"
+[arXiv:2310.12209 [astro-ph.IM]].
+
 Requires pytorch, nflows.
 
 Download the training data from here:
