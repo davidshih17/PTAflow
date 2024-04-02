@@ -1,7 +1,9 @@
 # PTAflow
 Neural posterior estimation for Pulsar Timing Arrays
 
-First, download the training data from here:
+Requires pytorch, nflows.
+
+Download the training data from here:
 
 https://zenodo.org/doi/10.5281/zenodo.10906129
 
